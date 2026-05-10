@@ -1,0 +1,6 @@
+For example, multiplying a=97864876598 and b=92635893398 produces:
+
+Digit: 8, Place: 1, Partial: 782919012784
+Digit: 9, Place: 10, Partial: 8807838893820
+Digit: 3, Place: 100, Partial: 29359462979400
+Final Result: 8448935749363056548 // incorrect due to overflow
