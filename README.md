@@ -1,4 +1,9 @@
 # Digit-based Multiplication
+![License](https://img.shields.io/badge/license-MIT-green)
+![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![Status](https://img.shields.io/badge/status-active-success)
+![Repo Size](https://img.shields.io/github/repo-size/theinternetisahellhole/Digit-basedMultiplication)
+![Last Commit](https://img.shields.io/github/last-commit/theinternetisahellhole/Digit-basedMultiplication)
 
 In computer science and computational mathematics, multiplying large numbers is a fundamental 
 and frequently used operation. The Digit-based Multiplication algorithm is a simple and classical 
