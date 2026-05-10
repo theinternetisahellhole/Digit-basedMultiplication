@@ -1,6 +1,9 @@
 # Digit-based Multiplication
-![License](https://img.shields.io/badge/license-MIT-green)
+![File Type](https://img.shields.io/badge/File-PDF-red)
+![Document](https://img.shields.io/badge/Type-Academic%20Article-blue)
+![Topic](https://img.shields.io/badge/Topic-Algorithm%20Analysis-green)
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![Repo Size](https://img.shields.io/github/repo-size/theinternetisahellhole/Digit-basedMultiplication)
 ![Last Commit](https://img.shields.io/github/last-commit/theinternetisahellhole/Digit-basedMultiplication)
